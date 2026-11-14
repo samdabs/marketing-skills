@@ -1,0 +1,9 @@
+.env
+.env.*
+*.key
+*.pem
+clients/
+leads/
+prospects/
+*.csv
+.DS_Store
